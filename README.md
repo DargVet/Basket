@@ -29,8 +29,7 @@ Laba.sln
 ├── Program.cs # Запуск приложения
 
 
-# Класс Logic
-## Методы
+## Методы класса Logic
 **AddInBasket()** - Добавляет товар  
 **RemoveProduct()** - Удаляет товар  
 **GetProduct()** - Ищет товар  
