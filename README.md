@@ -49,6 +49,8 @@ Laba.sln
 7. Показать все товары(Выводит все товары через Logic.GetProductsByCategory)
 0. Выход(Выход из консольного приложения)
 
+
+
 ### Windows Forms
 1. Добавить товар(Создание сущности через Logic.AddInBasket)
 2. Удалить товар(удаление сущности черех Logic.RemoveProduct)
