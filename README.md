@@ -13,11 +13,11 @@
 │ ├── ShowProductsByCategoryClass.cs # Товары по категориям
 │ ├── UpdateProduct.cs # Обновление товаров
 │ ├── Program.cs # Главная программа
-│
+
 ├── ModelLogic/ # Бизнес-логика и модели данных
 │ ├── LogicClass.cs # Основная логика приложения
 │ ├── ProductClass.cs # Модель товара
-│
+
 └── WForms/ # Windows Forms приложение
 ├── Add.cs # Форма добавления товара
 ├── Del.cs # Форма удаления товара
