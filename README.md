@@ -3,9 +3,33 @@
 Проект представляет собой систему управления товарами в корзине с графическим интерфейсом (WForms) и консольным интерфейсом (Console).
 
 ## Структура проекта
--Консольное приложение ModelLogic
--Бизнес-логика и модели данныхWForms
--Windows Forms приложение
+Laba.sln
+├── ModelLogic/                     
+│   ├── LogicClass.cs          
+│   ├── ProductClass.cs               
+│   └── ModelLogic.csproj           
+│     
+├── Console/                          
+│   ├── AddProduct.cs                
+│   ├── CalculateTotalClass.cs        
+│   ├── GetProduct.cs                 
+│   ├── RemoveProduct.cs              
+│   ├── ShowAllProductsClass.cs      
+│   ├── ShowProductsByCategoryClass.cs# 
+│   ├── UpdateProduct.cs              
+│   ├── Program.cs                    
+│   └── Console.csproj                
+│       
+└── WForms/                           
+    ├── Add.cs                        
+    ├── Del.cs                       
+    ├── Find.cs                 
+    ├── MainForm.cs             
+    ├── Update.cs                   
+    ├── AllCategories.cs         
+    ├── ProductDisplayer.cs         
+    ├── Program.cs                   
+    └── WForms.csproj       
 
 
 ## Методы класса Logic
