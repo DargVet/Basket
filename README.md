@@ -4,29 +4,9 @@
 
 ## Структура проекта
 **Laba.sln
-├── Console/ # Консольное приложение
-│ ├── AddProduct.cs # Добавление товаров
-│ ├── CalculateTotalClass.cs # Расчет общей стоимости
-│ ├── GetProduct.cs # Поиск товаров
-│ ├── RemoveProduct.cs # Удаление товаров
-│ ├── ShowAllProductsClass.cs # Показать все товары
-│ ├── ShowProductsByCategoryClass.cs # Товары по категориям
-│ ├── UpdateProduct.cs # Обновление товаров
-│ ├── Program.cs # Главная программа
-
-├── ModelLogic/ # Бизнес-логика и модели данных
-│ ├── LogicClass.cs # Основная логика приложения
-│ ├── ProductClass.cs # Модель товара
-
-└── WForms/ # Windows Forms приложение
-**├── Add.cs # Форма добавления товара**
-**├── Del.cs # Форма удаления товара**
-**├── Find.cs # Форма поиска товара**
-**├── MainForm.cs # Главная форма**
-**├── Update.cs # Форма обновления товара**
-**├── AllCategories.cs # Форма категорий**
-**├── ProductDisplayer.cs # Отображение товаров**
-**├── Program.cs # Запуск приложения**
+Console # Консольное приложение
+ModelLogic/ # Бизнес-логика и модели данных
+WForms/ # Windows Forms приложение
 
 
 ## Методы класса Logic
